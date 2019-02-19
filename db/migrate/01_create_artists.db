@@ -18,7 +18,7 @@ mechanics-of-migrations-v-000/
   Rakefile
   README.md
 
-  class CreateArtists < ActiveRecord::Migration
+class CreateArtists < ActiveRecord::Migration
   def up
   end
 
