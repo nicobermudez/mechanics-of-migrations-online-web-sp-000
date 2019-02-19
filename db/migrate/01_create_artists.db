@@ -1,0 +1,19 @@
+mechanics-of-migrations-v-000/
+  config/
+    environment.rb
+  db/
+    migrate/
+      01_create_artists.rb
+  spec/
+    artist_spec.rb
+    spec_helper.rb
+  .gitignore
+  .learn
+  .rspec
+  artist.rb
+  CONTRIBUTING.md
+  Gemfile
+  Gemfile.lock
+  LICENSE.md
+  Rakefile
+  README.md
