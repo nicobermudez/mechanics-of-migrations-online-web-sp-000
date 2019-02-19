@@ -67,7 +67,7 @@ DEPENDENCIES
   require_all
   rspec
   sinatra-activerecord
-  sqlite3
+  sqlite3 (~> 1.3.6)
 
 BUNDLED WITH
-   1.12.5
+   1.17.3
